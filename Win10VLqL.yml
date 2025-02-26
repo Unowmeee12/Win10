@@ -11,6 +11,7 @@ services:
       DISK_SIZE: "512G"
       REGION: "fr-BE"
       KEYBOARD: "fr-FR"
+      LANGUAGE: "French"
     devices:
       - /dev/kvm
       - /dev/net/tun
