@@ -6,7 +6,7 @@ services:
       VERSION: "11"
       USERNAME: "Benoit"
       PASSWORD: "Yaknowme123"
-      RAM_SIZE: "32G"
+      RAM_SIZE: "16G"
       CPU_CORES: "4"
       DISK_SIZE: "512G"
       REGION: "fr-BE"
