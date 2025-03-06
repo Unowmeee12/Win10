@@ -5,8 +5,8 @@ services:
     environment:
       VERSION: "11"
       USERNAME: "Benoit"
-      PASSWORD: "Yaknowme123"
-      RAM_SIZE: "12G"
+      PASSWORD: "yaknowme123"
+      RAM_SIZE: "32G"
       CPU_CORES: "6"
       DISK_SIZE: "700G"
       REGION: "fr-BE"
